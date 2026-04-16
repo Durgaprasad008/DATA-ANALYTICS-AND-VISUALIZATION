@@ -97,11 +97,3 @@ The ARIMA model proved effective for short-term forecasting of stock prices. The
 * **Roll No:** 38
 * **UIN:** 211A058
 * **Year:** TE-AIDS 2025-26
-
----
-
-If you want, I can also:
-
-* 🔥 Add **images of your plots into README**
-* 📁 Create a **requirements.txt file**
-* 🚀 Make your GitHub look **professional & standout for placements**
