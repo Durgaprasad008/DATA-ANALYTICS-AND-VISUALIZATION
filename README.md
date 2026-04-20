@@ -1,4 +1,4 @@
-# 📊 Assignment Title
+# 📊  Time series analysis
 
 **Time Series Analysis and Forecasting of NSE Stock using ARIMA**
 
